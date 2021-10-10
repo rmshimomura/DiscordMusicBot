@@ -5,7 +5,7 @@ import os
 #import all of the cogs
 from music import music_cog
 
-bot = commands.Bot(command_prefix='-')
+bot = commands.Bot(command_prefix='!')
 
 #register the class with the bot
 
